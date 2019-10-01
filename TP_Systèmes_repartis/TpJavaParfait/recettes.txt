@@ -1,0 +1,6 @@
+# Comments start with '#' and go to the end of the line.
+# Blank lines (like the one below) are allowed.
+helium : He 1 # molecule name, colon, atom type, number of atoms
+ammonia : N 1 H 3 # molecules may contain many types of atoms
+salt : Na 1 Cl 1 # atom names may be one or two characters long
+lithium hydride : Li 1 H 1 # molecule names may be several words long

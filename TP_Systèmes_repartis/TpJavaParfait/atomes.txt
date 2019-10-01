@@ -1,0 +1,5 @@
+# Once again, comments and blank lines are allowed.
+He 3 # atom name, number available
+H 2
+N 5
+Li 1
